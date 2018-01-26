@@ -1,1 +1,1 @@
-# DeepSeeK
+# Neural Differential Equations
